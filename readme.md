@@ -70,6 +70,20 @@ After that, you will see the binary in the `./dist` folder!
 * [taskr-api](https://github.com/bukinoshita/taskr-api) — Taskr API for PRO users (private)
 * [taskr-ios](https://github.com/bukinoshita/taskr-ios) Taskr App for iOS (private)
 
-## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
+
+
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
